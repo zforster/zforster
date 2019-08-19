@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zforster/static/css/main.3acaffdd.chunk.css",
-    "main.js": "/zforster/static/js/main.bd27e8ac.chunk.js",
-    "main.js.map": "/zforster/static/js/main.bd27e8ac.chunk.js.map",
+    "main.css": "/zforster/static/css/main.2a3157d8.chunk.css",
+    "main.js": "/zforster/static/js/main.4fb8de45.chunk.js",
+    "main.js.map": "/zforster/static/js/main.4fb8de45.chunk.js.map",
     "runtime~main.js": "/zforster/static/js/runtime~main.426d060c.js",
     "runtime~main.js.map": "/zforster/static/js/runtime~main.426d060c.js.map",
     "static/js/2.133f1687.chunk.js": "/zforster/static/js/2.133f1687.chunk.js",
     "static/js/2.133f1687.chunk.js.map": "/zforster/static/js/2.133f1687.chunk.js.map",
     "index.html": "/zforster/index.html",
-    "precache-manifest.55fa1a39258b5de3fa4c56e293973716.js": "/zforster/precache-manifest.55fa1a39258b5de3fa4c56e293973716.js",
+    "precache-manifest.5abb22cd7cff0b262920006248552bb6.js": "/zforster/precache-manifest.5abb22cd7cff0b262920006248552bb6.js",
     "service-worker.js": "/zforster/service-worker.js",
-    "static/css/main.3acaffdd.chunk.css.map": "/zforster/static/css/main.3acaffdd.chunk.css.map"
+    "static/css/main.2a3157d8.chunk.css.map": "/zforster/static/css/main.2a3157d8.chunk.css.map"
   }
 }
