@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hello/static/css/main.2cce8147.chunk.css",
-    "main.js": "/hello/static/js/main.5605afcc.chunk.js",
-    "main.js.map": "/hello/static/js/main.5605afcc.chunk.js.map",
-    "runtime~main.js": "/hello/static/js/runtime~main.912db03d.js",
-    "runtime~main.js.map": "/hello/static/js/runtime~main.912db03d.js.map",
-    "static/js/2.ccaa13e6.chunk.js": "/hello/static/js/2.ccaa13e6.chunk.js",
-    "static/js/2.ccaa13e6.chunk.js.map": "/hello/static/js/2.ccaa13e6.chunk.js.map",
-    "index.html": "/hello/index.html",
-    "precache-manifest.e74ea05ed16a29e90227667aac96d1fa.js": "/hello/precache-manifest.e74ea05ed16a29e90227667aac96d1fa.js",
-    "service-worker.js": "/hello/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/hello/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/hello/static/media/logo.5d5d9eef.svg"
+    "main.css": "/zforster/static/css/main.2cce8147.chunk.css",
+    "main.js": "/zforster/static/js/main.1943b675.chunk.js",
+    "main.js.map": "/zforster/static/js/main.1943b675.chunk.js.map",
+    "runtime~main.js": "/zforster/static/js/runtime~main.426d060c.js",
+    "runtime~main.js.map": "/zforster/static/js/runtime~main.426d060c.js.map",
+    "static/js/2.ccaa13e6.chunk.js": "/zforster/static/js/2.ccaa13e6.chunk.js",
+    "static/js/2.ccaa13e6.chunk.js.map": "/zforster/static/js/2.ccaa13e6.chunk.js.map",
+    "index.html": "/zforster/index.html",
+    "precache-manifest.b0e953aa82536b2ee1d75cfd3b88e7f7.js": "/zforster/precache-manifest.b0e953aa82536b2ee1d75cfd3b88e7f7.js",
+    "service-worker.js": "/zforster/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/zforster/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/zforster/static/media/logo.5d5d9eef.svg"
   }
 }
