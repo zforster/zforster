@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+}
+
+.title{
+    font-family: 'Titillium Web';
+    text-align: center;
+}
