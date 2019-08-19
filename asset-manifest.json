@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zforster/static/css/main.f1d56379.chunk.css",
+    "main.css": "/zforster/static/css/main.bd23c827.chunk.css",
     "main.js": "/zforster/static/js/main.501b548a.chunk.js",
     "main.js.map": "/zforster/static/js/main.501b548a.chunk.js.map",
     "runtime~main.js": "/zforster/static/js/runtime~main.426d060c.js",
@@ -8,8 +8,8 @@
     "static/js/2.133f1687.chunk.js": "/zforster/static/js/2.133f1687.chunk.js",
     "static/js/2.133f1687.chunk.js.map": "/zforster/static/js/2.133f1687.chunk.js.map",
     "index.html": "/zforster/index.html",
-    "precache-manifest.d8549d2637fd7baa105ef91c7bbf37d9.js": "/zforster/precache-manifest.d8549d2637fd7baa105ef91c7bbf37d9.js",
+    "precache-manifest.d902406df703e914ce49093f3e958b9e.js": "/zforster/precache-manifest.d902406df703e914ce49093f3e958b9e.js",
     "service-worker.js": "/zforster/service-worker.js",
-    "static/css/main.f1d56379.chunk.css.map": "/zforster/static/css/main.f1d56379.chunk.css.map"
+    "static/css/main.bd23c827.chunk.css.map": "/zforster/static/css/main.bd23c827.chunk.css.map"
   }
 }
