@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/zforster/static/css/main.2cdc8074.chunk.css",
-    "main.js": "/zforster/static/js/main.61e168ad.chunk.js",
-    "main.js.map": "/zforster/static/js/main.61e168ad.chunk.js.map",
+    "main.js": "/zforster/static/js/main.11d232a4.chunk.js",
+    "main.js.map": "/zforster/static/js/main.11d232a4.chunk.js.map",
     "runtime~main.js": "/zforster/static/js/runtime~main.426d060c.js",
     "runtime~main.js.map": "/zforster/static/js/runtime~main.426d060c.js.map",
-    "static/js/2.133f1687.chunk.js": "/zforster/static/js/2.133f1687.chunk.js",
-    "static/js/2.133f1687.chunk.js.map": "/zforster/static/js/2.133f1687.chunk.js.map",
+    "static/js/2.3efc45e3.chunk.js": "/zforster/static/js/2.3efc45e3.chunk.js",
+    "static/js/2.3efc45e3.chunk.js.map": "/zforster/static/js/2.3efc45e3.chunk.js.map",
     "index.html": "/zforster/index.html",
-    "precache-manifest.fde0ee682c335a737802d565532a35ae.js": "/zforster/precache-manifest.fde0ee682c335a737802d565532a35ae.js",
+    "precache-manifest.c0c8da63208060191c4c259ded273a15.js": "/zforster/precache-manifest.c0c8da63208060191c4c259ded273a15.js",
     "service-worker.js": "/zforster/service-worker.js",
-    "static/css/main.2cdc8074.chunk.css.map": "/zforster/static/css/main.2cdc8074.chunk.css.map"
+    "static/css/main.2cdc8074.chunk.css.map": "/zforster/static/css/main.2cdc8074.chunk.css.map",
+    "static/media/profile_image.png": "/zforster/static/media/profile_image.8fdba0d1.png"
   }
 }
