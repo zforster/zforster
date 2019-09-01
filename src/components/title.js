@@ -4,7 +4,12 @@ import '../styles/title.css'
 class Title extends Component {
     render() {
         return (
-          <h1 className="title">{this.props.text}</h1>
+            <div className="containingDiv">
+                <div className="flex">
+                    <h1 className="title">{this.props.title}</h1>
+                </div>
+                <h1 className="subtitle">{this.props.subtitle}</h1>
+            </div>
         );
     }
 }
