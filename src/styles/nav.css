@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:300&display=swap');
+
+.navBar{
+    float: right;
+    padding-right: 20px;
+    font-size: 22px;
+}
+
+.navBar li{
+    display: inline;
+    font-family: 'Abel', sans-serif;
+    padding: 0 5px 0 5px;
+    color: #696969;
+}
+
+#home{
+    color: #000;
+}
+
+li:hover{
+    color: #212121;
+    cursor: pointer;
+}

@@ -1,5 +1,6 @@
 import profileImage from "../resources/profile_image.png"
 import React, { Component } from 'react';
+import '../styles/name.css';
 
 class Name extends Component {
     render() {

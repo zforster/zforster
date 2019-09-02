@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Name from './components/name';
-import './styles/name.css';
+import Home from './components/homepage';
 
-ReactDOM.render(<Name welcomeText={"Zak Forster"} secondaryText={"Data Engineer"}/>, document.getElementById('root'));
-
+ReactDOM.render(<Home/>, document.getElementById('root'));
