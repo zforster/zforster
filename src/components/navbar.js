@@ -6,7 +6,7 @@ class Navigation extends Component {
         return (
             <ul className="navBar">
                 <li id="home">Home</li>
-                <li id="skills">Key Skills</li>
+                <li id="skills">Skills</li>
                 <li id="projects">Projects</li>
             </ul>
         );

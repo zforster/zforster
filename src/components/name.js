@@ -6,7 +6,7 @@ class Name extends Component {
     render() {
         return (
             <div className="nameContainer">
-                <img src={profileImage}/>
+                <img class="profileImage" src={profileImage}/>
                 <h1>{this.props.welcomeText}</h1>
                 <h2>{this.props.secondaryText}</h2>
             </div>
