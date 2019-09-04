@@ -4,7 +4,7 @@ class ScrambleText extends Component{
     constructor(){
         super();
         this.chars = ';,"\'()!<>-+/[]{}=*%#_';
-        this.phrases = ['Hello & Welcome!', 'Data Engineer', 'Computer Science Undergraduate', 'Avid Programmer'];
+        this.phrases = ['Hello & Welcome!', 'Schroders Technology Placement Student', 'Data Engineer', 'Computer Science Undergraduate', 'Avid Programmer'];
         this.textContainer = <div className="scrambleText"/>;
         this.update = this.update.bind(this);
     }
@@ -71,7 +71,7 @@ class ScrambleText extends Component{
         this.scrambleElement = document.querySelector('.scrambleText');
         let counter = 0;
         const next = () => {
-            this.setText(this.phrases[counter]).then(() => { setTimeout(next, 1200) });
+            this.setText(this.phrases[counter]).then(() => { setTimeout(next, 1400) });
             counter = (counter + 1) % this.phrases.length;
         };
         next();

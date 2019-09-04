@@ -1,0 +1,35 @@
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    max-width: 40px;
+    max-height: 40px;
+    fill: #696969;
+    transition: transform .2s;
+}
+
+.logo:hover{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    fill: #009dd1;
+    cursor: pointer;
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+}
+
+.anchor{
+    height:30px;
+    width:30px;
+    margin: 0 6px 0 6px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

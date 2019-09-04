@@ -1,6 +1,6 @@
 import Name from './name';
 import Navigation from './navbar';
-import GitHub from './footer';
+import GitHub from './externalSites';
 import React, { Component } from 'react';
 
 class Home extends Component {
