@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e50f690c0249d65a0288a86cb2e63052",
+    "revision": "91c37912c91c348dd940ef2340f742ec",
     "url": "/zforster/index.html"
   },
   {
-    "revision": "7ef4a32539efadf8e7ed",
+    "revision": "2a6e73fbff0fac99234a",
     "url": "/zforster/static/css/main.3e919e32.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zforster/static/js/2.d80ec19c.chunk.js"
   },
   {
-    "revision": "7ef4a32539efadf8e7ed",
-    "url": "/zforster/static/js/main.0af9eeeb.chunk.js"
+    "revision": "2a6e73fbff0fac99234a",
+    "url": "/zforster/static/js/main.74de0240.chunk.js"
   },
   {
     "revision": "d6d781529f670f8dcb5a",
