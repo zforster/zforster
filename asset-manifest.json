@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/zforster/static/css/main.3e919e32.chunk.css",
-    "main.js": "/zforster/static/js/main.74de0240.chunk.js",
-    "main.js.map": "/zforster/static/js/main.74de0240.chunk.js.map",
+    "main.css": "/zforster/static/css/main.bb4c0c5a.chunk.css",
+    "main.js": "/zforster/static/js/main.8aba5cc3.chunk.js",
+    "main.js.map": "/zforster/static/js/main.8aba5cc3.chunk.js.map",
     "runtime~main.js": "/zforster/static/js/runtime~main.426d060c.js",
     "runtime~main.js.map": "/zforster/static/js/runtime~main.426d060c.js.map",
-    "static/js/2.d80ec19c.chunk.js": "/zforster/static/js/2.d80ec19c.chunk.js",
-    "static/js/2.d80ec19c.chunk.js.map": "/zforster/static/js/2.d80ec19c.chunk.js.map",
+    "static/js/2.1a4a02cc.chunk.js": "/zforster/static/js/2.1a4a02cc.chunk.js",
+    "static/js/2.1a4a02cc.chunk.js.map": "/zforster/static/js/2.1a4a02cc.chunk.js.map",
     "index.html": "/zforster/index.html",
-    "precache-manifest.676913e3fcdfddc233783aa8b850d932.js": "/zforster/precache-manifest.676913e3fcdfddc233783aa8b850d932.js",
+    "precache-manifest.0d7b8978b8b0f052c46c2c75ed6f0736.js": "/zforster/precache-manifest.0d7b8978b8b0f052c46c2c75ed6f0736.js",
     "service-worker.js": "/zforster/service-worker.js",
-    "static/css/main.3e919e32.chunk.css.map": "/zforster/static/css/main.3e919e32.chunk.css.map",
+    "static/css/main.bb4c0c5a.chunk.css.map": "/zforster/static/css/main.bb4c0c5a.chunk.css.map",
+    "static/media/personalSite.png": "/zforster/static/media/personalSite.5b2f5414.png",
     "static/media/profile_image.png": "/zforster/static/media/profile_image.d9d4d6b6.png"
   }
 }
