@@ -3,7 +3,7 @@ import Navigation from '../reused/nav';
 import SiteLinks from '../reused/externalSites';
 import React, { Component } from 'react';
 
-class HomePage extends Component {
+class Home extends Component {
     render() {
         return (
             <Navigation>
@@ -14,4 +14,4 @@ class HomePage extends Component {
     }
 }
 
-export default HomePage;
+export default Home;

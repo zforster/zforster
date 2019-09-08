@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 import '../../styles/nav.css';
 
 class Navigation extends Component {
@@ -6,9 +7,9 @@ class Navigation extends Component {
         return (
             <div>
                 <ul className="navBar">
-                    <li id="home">Home</li>
-                    <li id="skills">Skills</li>
-                    <li id="projects">Projects</li>
+                    <li id="home"><Link className="noDecoration" to="/">Home</Link></li>
+                    <li id="skills"><Link className="noDecoration" to="/skills">Skills</Link></li>
+                    <li id="projects"><Link className="noDecoration" to="/projects">Projects</Link></li>
                 </ul>
                 {this.props.children}
             </div>

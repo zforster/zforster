@@ -9,7 +9,7 @@ class Name extends Component {
             <div className="nameContainer">
                 <img className="profileImage" src={profileImage}/>
                 <h1>{this.props.welcomeText}</h1>
-                <ScrambleText phrases={['Hello & Welcome!', 'Schroders Technology Placement Student', 'Data Engineer', 'Computer Science Undergraduate', 'Programmer!']}/>
+                <ScrambleText phrases={['Hello & Welcome!', 'Schroders Technology Placement Student', 'Data Engineer', 'Computer Science Undergraduate', 'Programmer']}/>
             </div>
         );
     }

@@ -11,16 +11,20 @@
     display: inline;
     font-family: 'Abel', sans-serif;
     padding: 0 8px 0 8px;
-    color: #696969;
-    transition-duration: .2s;
 }
 
 #home{
     color: #000;
 }
 
-li:hover{
+.noDecoration:hover{
     color: #009dd1;
     cursor: pointer;
     letter-spacing: .02em;
+    transition-duration: .2s;
+}
+
+.noDecoration{
+    text-decoration: none;
+    color: #696969;
 }
