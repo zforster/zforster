@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
 class ScrambleText extends Component{
-    constructor(){
+    constructor(props){
         super();
         this.chars = ';,"\'()!<>-+/[]{}=*%#_';
-        this.phrases = ['Hello & Welcome!', 'Schroders Technology Placement Student', 'Data Engineer', 'Computer Science Undergraduate', 'Avid Programmer'];
+        this.phrases = props.phrases;
         this.textContainer = <div className="scrambleText"/>;
         this.update = this.update.bind(this);
     }

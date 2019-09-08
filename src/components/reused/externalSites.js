@@ -1,7 +1,7 @@
-import '../styles/externalSites.css';
+import '../../styles/externalSites.css';
 import React, { Component } from 'react';
 
-class GitHub extends Component{
+class SiteLinks extends Component{
     render(){
         return(
             <div className="container">
@@ -18,4 +18,4 @@ class GitHub extends Component{
     }
 }
 
-export default GitHub
+export default SiteLinks

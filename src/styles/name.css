@@ -17,18 +17,18 @@ h1{
     margin-bottom: 20px;
 }
 
-/*.profileImage{*/
-    /*margin-left: auto;*/
-    /*margin-right: auto;*/
-    /*border-radius: 50%;*/
-    /*height: auto;*/
-    /*width: auto;*/
-    /*max-width: 250px;*/
-    /*max-height: 250px;*/
-    /*filter:brightness(120%);*/
-    /*box-shadow: 0 10px 10px #b5b5b5;*/
-    /*transition-duration: .2s;*/
-/*}*/
+.profileImage{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    height: auto;
+    width: auto;
+    max-width: 250px;
+    max-height: 250px;
+    filter:brightness(120%);
+    box-shadow: 0 10px 10px #b5b5b5;
+    transition-duration: .2s;
+}
 
 /*.profileImage:hover{*/
     /*-ms-transform: scale(1.05); !* IE 9 *!*/

@@ -1,5 +1,13 @@
-import React from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import Home from './components/homepage';
+import HomePage from './components/pages/home';
 
-ReactDOM.render(<Home/>, document.getElementById('root'));
+class App extends Component{
+    render(){
+        return(
+            <HomePage/>
+        );
+    }
+}
+
+ReactDOM.render(<App/>, document.getElementById('root'));
