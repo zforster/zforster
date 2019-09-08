@@ -13,18 +13,22 @@
     padding: 0 8px 0 8px;
 }
 
-#home{
-    color: #000;
-}
-
-.noDecoration:hover{
+.link:hover{
     color: #009dd1;
     cursor: pointer;
     letter-spacing: .02em;
     transition-duration: .2s;
 }
 
-.noDecoration{
+.link{
     text-decoration: none;
     color: #696969;
+    transition-duration: .2s;
+}
+
+.active{
+     color: #000;
+ }
+.active:hover{
+    color: #000;
 }

@@ -1,18 +1,18 @@
 import React, { Component } from 'react';
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import '../../styles/nav.css';
 
 class Navigation extends Component {
     render() {
         return (
-            <div>
+            <nav>
                 <ul className="navBar">
-                    <li id="home"><Link className="noDecoration" to="/">Home</Link></li>
-                    <li id="skills"><Link className="noDecoration" to="/skills">Skills</Link></li>
-                    <li id="projects"><Link className="noDecoration" to="/projects">Projects</Link></li>
+                    <li><NavLink exact className="link" activeClassName="active" to="/">Home</NavLink></li>
+                    <li><NavLink exact className="link" activeClassName="active" to="/projects">Projects</NavLink></li>
+                    {/*<li><NavLink exact className="link" activeClassName="active" to="/skills">Skills</NavLink></li>*/}
                 </ul>
                 {this.props.children}
-            </div>
+            </nav>
         );
     }
 }
