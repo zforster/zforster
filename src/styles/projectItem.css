@@ -25,7 +25,7 @@
     font-family: 'Lato', sans-serif;
     margin: 0 0 0 0;
     font-size: 18px;
-    padding: 5px 0 15px 0;
+    padding: 5px 0 20px 0;
 }
 
 .projectDate{
@@ -43,15 +43,28 @@
     max-width: 700px;
     height: 500px;
     max-height: 500px;
-    box-shadow: 0 10px 10px #b5b5b5;
+    -moz-box-shadow: 0 0 5px #999;
+    -webkit-box-shadow: 0 0 5px #999;
+    box-shadow: 0 0 15px #636363;
     border-radius: 2%;
 }
 
 .projectDescription{
     font-family: 'Lato', sans-serif;
     padding: 10px 0 10px 0;
+    letter-spacing: .07em;
     font-size: 18px;
     max-width: 700px;
     width: 700px;
-    color: #000000;
+    color: #363636;
+}
+
+.hyperlink{
+    text-decoration: none;
+    color: #004799;
+}
+
+.divisor{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

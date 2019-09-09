@@ -12,7 +12,7 @@ class ProjectItem extends Component{
                     <img className="projectImage" src={this.props.projectImage}/>
                     <h1 className="projectDescription">{this.props.projectDescription}</h1>
                 </div>
-                {/*<text>─────────────────────────────────────</text>*/}
+                <div className="divisor">{this.props.divisor}</div>
             </div>
         );
     }
